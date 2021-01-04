@@ -26,3 +26,14 @@
   - Databinding
 
 ### Screenshots
+
+<img src="https://github.com/jordge06/TVGalleryApp/blob/master/Screenshot_2021-01-04-14-11-39-15.png" width="300"/>
+
+<img src="https://github.com/jordge06/TVGalleryApp/blob/master/Screenshot_2021-01-04-14-11-43-43.png" width="300"/>
+
+<img src="https://github.com/jordge06/TVGalleryApp/blob/master/Screenshot_2021-01-04-14-12-00-19.png" width="300"/>
+
+<img src="https://github.com/jordge06/TVGalleryApp/blob/master/Screenshot_2021-01-04-14-12-15-32.png" width= "300"/>
+
+
+
